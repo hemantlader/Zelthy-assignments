@@ -1,0 +1,7 @@
+
+Currently I am working on a project which is funded by our college in a team of two [(NEWGen IEDC)](https://newgeniedc.iiita.ac.in/).
+
+A year ago I built a cross platform desktop [widget](https://github.com/hemantlader/Corona-Widget) to track COVID-19 Cases in Indian states. Using the open-source API proovided by [https://www.covid19india.org/](https://www.covid19india.org/).
+
+During my undergraduation I led a team of four to built a smart home surveillance system[The Fourth Eye](https://github.com/hemantlader/the-fourth-eye) using Raspberry-Pi
+The system sends email alert when it detects someone on the camera, it it also provide user to access the appliences over the internet (Home automation).
